@@ -5,16 +5,8 @@
 	<title>Administración Pagina</title>
 </head>
 <body>
-	<nav>
-		<ul>
-			<li>Nuevo Post</li>
-			<li>Posts</li>
-			<li>Nuevo Usuario</li>
-			<li>Usuarios</li>
-		</ul>
-		<?php 
-		session_start();
-		 ?>
-	</nav>
+	<?php 
+	include('nav.php');
+	?>
 </body>
 </html>

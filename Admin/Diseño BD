@@ -1,0 +1,14 @@
+Usuarios
+	IdUsuario
+	Nombre
+	Cuenta
+	Contrasena
+	Correo
+
+Post
+	IdPost
+	Titulo
+	Descripcion
+	RutaImg
+	Contenido
+	Fecha
