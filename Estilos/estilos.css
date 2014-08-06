@@ -1,0 +1,210 @@
+@charset "utf-8";
+
+body{
+	background:url(../Imagenes/fondo.jpg) fixed bottom right;
+	width:100%;
+	height:100%;
+	margin-top:0px;
+	margin-left:0px;
+	position:absolute;
+	
+}
+
+#contenedornoticia{
+	width:46%;
+	height:62%;
+	margin-right:50px;
+	margin-left:150px;
+	margin-top:10px;
+	margin-bottom:20px;
+	background-color: #FFFFFF;
+	position:absolute;
+}
+
+#contenedornoticias{
+	width:30%;
+	height:65%;
+	margin-left:786px;
+	margin-top:10px;
+	background-color:#FFFFFF;
+	position:absolute;
+}
+
+#titulonoticias{
+	width:100%;
+	height:7%;
+	border-style:dotte;
+	background-color:#000000;
+}
+
+#cabecera{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;
+	height: 30%;
+	background-color:#2AD04B;
+}
+
+#imagen{
+	background-image:url(../Imagenes/cabecera.png);
+	opacity:0.5;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	margin-left:100px;
+	margin-top:10px;
+	width: 18.5%;
+	height: 25%;
+	position:absolute;
+	
+}
+
+#areamenu{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 0px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 90px;
+	padding-right: 0px;
+	background-color:#040404;
+}
+
+#areamenu ul li{
+	display:inline;
+}
+
+#areamenu ul li a {
+	font-family: Arial, Helvetica, Verdana;
+	font-size: 18px;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-right: 26px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	background-color: #040404;
+	color: #FFFFFF;
+}
+
+#areamenu ul li a:hover {
+	padding-bottom: 0px;
+	margin-top: -2px;
+	color:#0000FF;
+}
+
+#imagennota{
+	background-image:url(../Imagenes/mexico.jpg);
+	width:90%;
+	height:90%;
+	border:0px;
+	position:absolute;
+	margin-left:5px;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+
+#info{
+	width:100%;
+	height:30%;
+	position:absolute;
+	margin-left:0px;
+	margin-top:50%;
+	margin-bottom:0px;
+	background-color:#000000;
+}
+
+.info1{
+	color:#FFFFFF;
+	font-family: Arial, Helvetica, Verdana;
+	font-size:25px;
+	padding-top:10px;
+	padding-left:10px;
+}
+
+.info2{
+	color:#FFFFFF;
+	font-family: Arial, Helvetica, Verdana;
+	font-size:15px;
+	padding-top:10px;
+	padding-left:10px;
+}
+
+.lista{
+	font-size:15px;
+	font-family: Arial, Helvetica, Verdana;
+}
+
+.nota{
+	width:80%;
+	height:50%;
+	margin-left:158px;
+	margin-top:468;
+	position:absolute;
+}
+
+.tabla{
+	table-layout:fixed;
+	border-collapse:collapse;
+	width:52%;
+	height:27%;
+}
+
+.tabla th{
+	background-image:url(../Imagenes/cabecera.png);
+}
+
+#contenedorvideos{
+	width:70%;
+	height:80%;
+	margin-right:50px;
+	margin-left:150px;
+	margin-top:600px;
+	margin-bottom:20px;
+	position:absolute;
+}
+
+#contenedornota{
+	width:46%;
+	height:150%;
+	margin-right:50px;
+	margin-left:150px;
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color: #FFFFFF;
+	position:absolute;
+}
+
+
+#imagennota{
+	background-image:url(../Imagenes/mexico.jpg);
+	width:99%;
+	height:90%;
+	position:absolute;
+	margin-left:3px;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+
+.titulo{
+	font-family: Arial, Helvetica, Verdana;
+	color:#FF0101;
+	font-size:30px;
+	margin-top:20px;
+	margin-left:15px;
+}
+
+.texto{
+	font-family: Arial, Helvetica, Verdana;
+	font-size:15px;
+	margin-top:400px;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+.texto2{
+	font-family: Arial, Helvetica, Verdana;
+	font-size:15px;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+
